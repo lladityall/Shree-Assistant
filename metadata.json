@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Shree - AI Voice Assistant",
+  "description": "A sassy, witty, and intelligent Indian female AI voice assistant, created by Aditya Patil.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
